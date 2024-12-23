@@ -1,9 +1,3 @@
 # DataMiningProject
 
-# This project was done for a class in TMU Computer Science. 
-
-# The project was done to showcase skills we learnt during the term of the class
-
-# My project was done on a dataset of real estate. You can find the data in Housing.csv 
-
-# Thank you 
+This project was done for a class in TMU Computer Science. It  was done to showcase skills we learnt during the term of the class. We had to find a data sample online then manipluate the data to showcase its properties via graphs, then estimate a fake sample using regression. My choice of data was based around real estate properties with 13 variables. The full dataset can be found in the Housing.csv file. 
